@@ -1,0 +1,4 @@
+config:
+  paths:
+    kiwee/testconfig/system/configuration:            kiweetestconfig/js/configuration/test
+    kiwee/testconfig/template/configuration/test:     kiweetestconfig/templates/configuration/test.html

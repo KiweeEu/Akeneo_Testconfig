@@ -1,0 +1,6 @@
+extensions:
+  oro-system-config-tab-kiwee:
+    module: kiwee/testconfig/system/configuration
+    parent: oro-system-config-tabs
+    targetZone: container
+    position: 110
